@@ -32,3 +32,21 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.container {
+  max-width: 1128px;
+  padding: 0 16px;
+  margin: 0 auto;
+}
+
+.link {
+  display: inline-block;
+  font-weight: 300;
+  font-size: 24px;
+  color: #000;
+  padding: 10px 20px;
+  background-color: #bababa;
+  border-radius: 10px;
+  outline: none;
+  transition: background-color 0.2s ease-in;
+}
